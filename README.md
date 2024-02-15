@@ -1,9 +1,9 @@
 👋 Hi, I’m @jrood
 
-🌱 I’m currently learning about [Lit](https://lit.dev/).
+💞️ I love web application architecture, quantum computing, and modular synthesis.
 
-👀 I’m interested in web components and modular synthesis.
+🌱 I’m currently learning about quantum error correction.
 
-💞️ I’m hoping to combine my passions and build modular synth web components.
+👀 I’m looking for ways that quantum errors can be useful as mutations in training AI models.
 
-📫 You can best reach me by email at [mr.john.rood@gmail.com](mailto:mr.john.rood@gmail.com)
+📫 You can best reach me by email at [john@johnrood.dev](mailto:john@johnrood.dev)
