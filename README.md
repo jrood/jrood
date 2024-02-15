@@ -6,4 +6,4 @@
 
 👀 I’m looking for ways that quantum errors can be useful as mutations in training AI models.
 
-📫 You can best reach me by email at [john@johnrood.dev](mailto:john@johnrood.dev)
+📫 You can reach me by email at [john@johnrood.dev](mailto:john@johnrood.dev) or by phone at 312-402-0230
