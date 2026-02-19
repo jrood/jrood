@@ -1,6 +1,6 @@
 👋 Hi, I’m @jrood
 
-💞️ I love GIS and fine grained reactivity.
+💞️ I love GIS and fine-grained reactivity.
 
 ⚛️ I'm the author of the [Cas-9](https://cas-9.dev/) web framework.
 
